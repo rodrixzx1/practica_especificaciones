@@ -4,16 +4,27 @@ from ejercicios import ejercicio3_compra as ej3
 from ejercicios import ejercicio4_estacionamiento as ej4
 
 def ejecutarEjercicio1():
-    print("Ejercicio 1 pendiente.")
+    consumo = ej1.leerConsumo()
+    pago = ej1.calcularPago(consumo)
+    ej1.mostrarRecibo(importe=pago)
 
 def ejecutarEjercicio2():
-    print("Ejercicio 2 pendiente.")
+    p1, p2, p3 = ej2.leerParciales()
+    final = ej2.calcularFinal(p1, p2, p3)
+    estado = ej2.determinarEstado(p1, p2, p3, final)
+    ej2.mostrarResultado(final, estado)
 
 def ejecutarEjercicio3():
-    print("Ejercicio 3 pendiente.")
+    subtotal = ej3.leerSubtotal()
+    descuento = ej3.calcularDescuento(subtotal)
+    iva = ej3.calcularIVA(subtotal, descuento)
+    total = ej3.calcularTotal(subtotal, descuento, iva)
+    ej3.mostrarTicket(subtotal, descuento, iva, total)
 
 def ejecutarEjercicio4():
-    print("Ejercicio 4 pendiente.")
+    minutos = ej4.leerMinutos()
+    importe = ej4.calcularCobro(minutos)
+    ej4.mostrarCobro(importe)
 
 def mostrarMenu():
     print()
