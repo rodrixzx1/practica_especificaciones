@@ -211,3 +211,188 @@ PRÁCTICA: DESARROLLO GUIADO POR ESPECIFICACIÓN
 3. Total de compra
 4. Estacionamiento
 0. Salir
+
+Casos de prueba ejercicio 5:
+PRÁCTICA: DESARROLLO GUIADO POR ESPECIFICACIÓN
+1. Recibo de luz
+2. Calificación final
+3. Total de compra
+4. Estacionamiento
+5. Renta de bicicletas
+6. Boleto de cine
+7. Multa por velocidad
+0. Salir
+Seleccione una opción: 5
+Ingrese el número de horas de renta: 1
+El importe a pagar por 1 horas de renta es: $30.00
+
+PRÁCTICA: DESARROLLO GUIADO POR ESPECIFICACIÓN
+1. Recibo de luz
+2. Calificación final
+3. Total de compra
+4. Estacionamiento
+5. Renta de bicicletas
+6. Boleto de cine
+7. Multa por velocidad
+0. Salir
+Seleccione una opción: 5
+Ingrese el número de horas de renta: 2
+El importe a pagar por 2 horas de renta es: $60.00
+
+PRÁCTICA: DESARROLLO GUIADO POR ESPECIFICACIÓN
+1. Recibo de luz
+2. Calificación final
+3. Total de compra
+4. Estacionamiento
+5. Renta de bicicletas
+6. Boleto de cine
+7. Multa por velocidad
+0. Salir
+Seleccione una opción: 5
+Ingrese el número de horas de renta: 3
+El importe a pagar por 3 horas de renta es: $76.50
+
+PRÁCTICA: DESARROLLO GUIADO POR ESPECIFICACIÓN
+1. Recibo de luz
+2. Calificación final
+3. Total de compra
+4. Estacionamiento
+5. Renta de bicicletas
+6. Boleto de cine
+7. Multa por velocidad
+0. Salir
+Seleccione una opción: 5
+Ingrese el número de horas de renta: 4
+El importe a pagar por 4 horas de renta es: $102.00
+
+Casos de prueba ejercicio 6:
+PRÁCTICA: DESARROLLO GUIADO POR ESPECIFICACIÓN
+1. Recibo de luz
+2. Calificación final
+3. Total de compra
+4. Estacionamiento
+5. Renta de bicicletas
+6. Boleto de cine
+7. Multa por velocidad
+0. Salir
+Seleccione una opción: 6
+Ingrese la edad del asistente: 8
+El precio del boleto para un asistente de 8 años es: $40.00
+
+PRÁCTICA: DESARROLLO GUIADO POR ESPECIFICACIÓN
+1. Recibo de luz
+2. Calificación final
+3. Total de compra
+4. Estacionamiento
+5. Renta de bicicletas
+6. Boleto de cine
+7. Multa por velocidad
+0. Salir
+Seleccione una opción: 6
+Ingrese la edad del asistente: 12
+El precio del boleto para un asistente de 12 años es: $40.00
+
+PRÁCTICA: DESARROLLO GUIADO POR ESPECIFICACIÓN
+1. Recibo de luz
+2. Calificación final
+3. Total de compra
+4. Estacionamiento
+5. Renta de bicicletas
+6. Boleto de cine
+7. Multa por velocidad
+0. Salir
+Seleccione una opción: 6
+Ingrese la edad del asistente: 13
+El precio del boleto para un asistente de 13 años es: $80.00
+
+PRÁCTICA: DESARROLLO GUIADO POR ESPECIFICACIÓN
+1. Recibo de luz
+2. Calificación final
+3. Total de compra
+4. Estacionamiento
+5. Renta de bicicletas
+6. Boleto de cine
+7. Multa por velocidad
+0. Salir
+Seleccione una opción: 6
+Ingrese la edad del asistente: 59
+El precio del boleto para un asistente de 59 años es: $80.00
+
+PRÁCTICA: DESARROLLO GUIADO POR ESPECIFICACIÓN
+1. Recibo de luz
+2. Calificación final
+3. Total de compra
+4. Estacionamiento
+5. Renta de bicicletas
+6. Boleto de cine
+7. Multa por velocidad
+0. Salir
+Seleccione una opción: 6
+Ingrese la edad del asistente: 60
+El precio del boleto para un asistente de 60 años es: $40.00
+
+Casos de prueba ejercicio 7:
+PRÁCTICA: DESARROLLO GUIADO POR ESPECIFICACIÓN
+1. Recibo de luz
+2. Calificación final
+3. Total de compra
+4. Estacionamiento
+5. Renta de bicicletas
+6. Boleto de cine
+7. Multa por velocidad
+0. Salir
+Seleccione una opción: 7
+Ingrese la velocidad del vehículo (km/h): 50
+La multa por exceso de velocidad para 50 km/h es: $0.00
+
+PRÁCTICA: DESARROLLO GUIADO POR ESPECIFICACIÓN
+1. Recibo de luz
+2. Calificación final
+3. Total de compra
+4. Estacionamiento
+5. Renta de bicicletas
+6. Boleto de cine
+7. Multa por velocidad
+0. Salir
+Seleccione una opción: 7
+Ingrese la velocidad del vehículo (km/h): 60
+La multa por exceso de velocidad para 60 km/h es: $0.00
+
+PRÁCTICA: DESARROLLO GUIADO POR ESPECIFICACIÓN
+1. Recibo de luz
+2. Calificación final
+3. Total de compra
+4. Estacionamiento
+5. Renta de bicicletas
+6. Boleto de cine
+7. Multa por velocidad
+0. Salir
+Seleccione una opción: 7
+Ingrese la velocidad del vehículo (km/h): 61
+La multa por exceso de velocidad para 61 km/h es: $500.00
+
+PRÁCTICA: DESARROLLO GUIADO POR ESPECIFICACIÓN
+1. Recibo de luz
+2. Calificación final
+3. Total de compra
+4. Estacionamiento
+5. Renta de bicicletas
+6. Boleto de cine
+7. Multa por velocidad
+0. Salir
+Seleccione una opción: 7
+Ingrese la velocidad del vehículo (km/h): 80
+La multa por exceso de velocidad para 80 km/h es: $500.00
+
+PRÁCTICA: DESARROLLO GUIADO POR ESPECIFICACIÓN
+1. Recibo de luz
+2. Calificación final
+3. Total de compra
+4. Estacionamiento
+5. Renta de bicicletas
+6. Boleto de cine
+7. Multa por velocidad
+0. Salir
+Seleccione una opción: 7
+Ingrese la velocidad del vehículo (km/h): 81
+La multa por exceso de velocidad para 81 km/h es: $1000.00
