@@ -100,3 +100,114 @@ Ingrese la calificación del segundo parcial (0-100): 70
 Ingrese la calificación del tercer parcial (0-100): 70
 Calificación final: 69.70
 Estado: Reprobado
+
+Casos de prueba ejercicio 3:
+PRÁCTICA: DESARROLLO GUIADO POR ESPECIFICACIÓN
+1. Recibo de luz
+2. Calificación final
+3. Total de compra
+4. Estacionamiento
+0. Salir
+Seleccione una opción: 3
+Ingrese el monto de la compra: 500
+Subtotal: 500.00
+Descuento: 0.00
+IVA: 80.00
+Total: 580.00
+
+PRÁCTICA: DESARROLLO GUIADO POR ESPECIFICACIÓN
+1. Recibo de luz
+2. Calificación final
+3. Total de compra
+4. Estacionamiento
+0. Salir
+Seleccione una opción: 3
+Ingrese el monto de la compra: 900
+Subtotal: 900.00
+Descuento: 0.00
+IVA: 144.00
+Total: 1044.00
+
+PRÁCTICA: DESARROLLO GUIADO POR ESPECIFICACIÓN
+1. Recibo de luz
+2. Calificación final
+3. Total de compra
+4. Estacionamiento
+0. Salir
+Seleccione una opción: 3
+Ingrese el monto de la compra: 1000
+Subtotal: 1000.00
+Descuento: 100.00
+IVA: 144.00
+Total: 1044.00
+
+PRÁCTICA: DESARROLLO GUIADO POR ESPECIFICACIÓN
+1. Recibo de luz
+2. Calificación final
+3. Total de compra
+4. Estacionamiento
+0. Salir
+Seleccione una opción: 3
+Ingrese el monto de la compra: 5000
+Subtotal: 5000.00
+Descuento: 1000.00
+IVA: 640.00
+Total: 4640.00
+
+Casos de prueba ejercicio 4:
+PRÁCTICA: DESARROLLO GUIADO POR ESPECIFICACIÓN
+1. Recibo de luz
+2. Calificación final
+3. Total de compra
+4. Estacionamiento
+0. Salir
+Seleccione una opción: 4
+Ingrese los minutos de estancia: 45
+El importe a cobrar es: $20.00
+
+PRÁCTICA: DESARROLLO GUIADO POR ESPECIFICACIÓN
+1. Recibo de luz
+2. Calificación final
+3. Total de compra
+4. Estacionamiento
+0. Salir
+Seleccione una opción: 4
+Ingrese los minutos de estancia: 60
+El importe a cobrar es: $20.00
+
+PRÁCTICA: DESARROLLO GUIADO POR ESPECIFICACIÓN
+1. Recibo de luz
+2. Calificación final
+3. Total de compra
+4. Estacionamiento
+0. Salir
+Seleccione una opción: 4
+Ingrese los minutos de estancia: 61
+El importe a cobrar es: $35.00
+
+PRÁCTICA: DESARROLLO GUIADO POR ESPECIFICACIÓN
+1. Recibo de luz
+2. Calificación final
+3. Total de compra
+4. Estacionamiento
+0. Salir
+Seleccione una opción: 4
+Ingrese los minutos de estancia: 150
+El importe a cobrar es: $50.00
+
+PRÁCTICA: DESARROLLO GUIADO POR ESPECIFICACIÓN
+1. Recibo de luz
+2. Calificación final
+3. Total de compra
+4. Estacionamiento
+0. Salir
+Seleccione una opción: 4
+Ingrese los minutos de estancia: 600
+El importe a cobrar es: $150.00
+
+PRÁCTICA: DESARROLLO GUIADO POR ESPECIFICACIÓN
+1. Recibo de luz
+2. Calificación final
+3. Total de compra
+4. Estacionamiento
+0. Salir
