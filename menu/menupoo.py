@@ -1,7 +1,6 @@
 from clases.ejemplo.calculadora import Calculadora
 from clases.ejercicios.ejercicio1_luz import ConsumoLuz
-from clases.ejercicios.ejercicio2_calificacion import EvaluacionParciales  # <--- 1. Importas la clase de calificaciones
-
+from clases.ejercicios.ejercicio2_calificacion import EvaluacionParciales 
 
 class Menu(object):
 
@@ -13,7 +12,7 @@ class Menu(object):
         print("Ejemplo programacion orientada a objetos")
         print("1. Calculadora")
         print("2. Consumo de Luz")
-        print("3. Calificaciones Parciales")  # <--- 2. Agregas la opción en pantalla
+        print("3. Calificaciones Parciales")  
         print("0. Salir")
 
     def menu(self):
@@ -28,13 +27,13 @@ class Menu(object):
                 casio.calcularSuma()
                 casio.mostrarSuma()
 
-            elif self.opcion == "2":  # <--- 3. Lógica para el consumo de luz
+            elif self.opcion == "2":  
                 luz = ConsumoLuz()
                 luz.leerConsumo()
                 luz.calcularPago()
                 luz.mostrarRecibo()
 
-            elif self.opcion == "3":  # <--- 4. Lógica para las calificaciones parciales
+            elif self.opcion == "3":  
                 evaluacion = EvaluacionParciales()
                 evaluacion.leerParciales()
                 evaluacion.calcularFinal()
